@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Naka-nishi-s)
+![](https://komarev.com/ghpvc/?username=Naka-nishi-s&color=brightgreen)
 
 <!--
 **Naka-nishi-s/Naka-nishi-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
