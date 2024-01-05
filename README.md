@@ -1,6 +1,13 @@
 ### Hi there 👋
+<p align="left">
+  <a href="https://github.com/Naka-nishi-s">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Naka-nishi-s&color=brightgreen" />
+  </a>
+  <a href="https://github.com/Naka-nishi-s">
+    <img height="20" src="https://img.shields.io/github/followers/Naka-nishi-s?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=Naka-nishi-s&color=brightgreen)
 
 <!--
 **Naka-nishi-s/Naka-nishi-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
