@@ -1,4 +1,6 @@
-### Hi there 👋
+### なかにしです。
+I like sushi.🍣
+
 <p align="left">
   <a href="https://github.com/Naka-nishi-s">
     <img height="20" src="https://komarev.com/ghpvc/?username=Naka-nishi-s&color=brightgreen" />
